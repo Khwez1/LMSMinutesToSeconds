@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+.container{
+display: flex;
+align-items: center;
+border: solid, 1rem, black
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+input{
+    width: 12rem;
+    height: 2rem;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5%;
+}

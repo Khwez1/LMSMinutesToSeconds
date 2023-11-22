@@ -1,1 +1,1 @@
-# LMSAssignments
+# LMSMinutesToSeconds
